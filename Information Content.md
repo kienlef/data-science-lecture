@@ -79,5 +79,10 @@
 <td>Enables users to author documents in the browser that include: live code, plots, … in different languages R, Python, JS, …</td>
 <td><a href="http://nbviewer.jupyter.org">Jupyter Notebooks</a></td>
 </tr>
+<tr>
+<td>Data Science Playground</td>
+<td>Kaggle helps you learn, work, and play</td>
+<td><a href="https://www.kaggle.com">Kaggle</a></td>
+</tr>
 </tbody>
 </table>

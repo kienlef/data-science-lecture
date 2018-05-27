@@ -91,7 +91,7 @@
 <h3 id="deadline-all-tasks-have-to-be-finished-one-week-before-the-oral-exam">Deadline: all tasks have to be finished one week before the oral exam</h3>
 <ul>
 <li>source code has to be uploaded to your GITHUB account</li>
-<li>presentations can be uploaded to GITHUB or to the OLAT System</li>
+<li>5 min presentations (3 slides) with the key findings has to be given within the oral. The presentation should address (business challenge, key findings)</li>
 </ul>
 <pre><code></code></pre>
 
